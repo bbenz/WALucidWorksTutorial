@@ -1,0 +1,1 @@
+This is the Visual Studio code that accompanies the tutorial "Setting up a LucidWorks Search Service running on Windows Azure" that can be found at 
