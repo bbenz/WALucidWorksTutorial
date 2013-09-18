@@ -1,0 +1,136 @@
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\LucidWorksSearchDemo.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\LucidWorksSearchDemo.pdb
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Antlr3.Runtime.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.AspNet.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.Core.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\EntityFramework.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\System.Web.Optimization.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\System.Web.Providers.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\WebGrease.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\EntityFramework.xml
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.Core.xml
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.xml
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.xml
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.AspNet.xml
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.csprojResolveAssemblyReference.cache
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.dll
+c:\users\a-jamepi\documents\visual studio 2012\Projects\LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.pdb
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\LucidWorksSearchDemo.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\LucidWorksSearchDemo.pdb
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Antlr3.Runtime.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.Core.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\EntityFramework.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\System.Web.Optimization.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\System.Web.Providers.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\WebGrease.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\EntityFramework.xml
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.Core.xml
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.Resources.resources
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.csproj.GenerateResource.Cache
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.dll
+C:\Users\a-jamepi\Desktop\LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.pdb
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\LucidWorksSearchDemo.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\LucidWorksSearchDemo.pdb
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Antlr3.Runtime.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.Core.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\EntityFramework.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\System.Web.Optimization.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\System.Web.Providers.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\WebGrease.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\EntityFramework.xml
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.Core.xml
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.Resources.resources
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.csproj.GenerateResource.Cache
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.dll
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.pdb
+C:\Users\a-jamepi\Desktop\Demos\LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.csprojResolveAssemblyReference.cache
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\LucidWorksSearchDemo.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\LucidWorksSearchDemo.pdb
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Antlr3.Runtime.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.Core.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\EntityFramework.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\System.Web.Optimization.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\System.Web.Providers.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\WebGrease.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\EntityFramework.xml
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.Core.xml
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.Resources.resources
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.csproj.GenerateResource.Cache
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.dll
+C:\Users\a-jamepi\Desktop\Distributable_LucidWorksSearchDemo\LucidWorksSearchDemo\obj\Debug\LucidWorksSearchDemo.pdb
